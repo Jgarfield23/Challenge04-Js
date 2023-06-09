@@ -10,13 +10,10 @@ For challenge 04 our project was to create a quiz game that includes a timer, a 
 ## Usage
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt screenshot](assets/highscorepage.png)
-    ![alt screenshot](assets/inputpage.png)
-    ![alt screenshot](assets/questions.png)
-    ![alt screenshot](assets/startpage.png)
+![alt screenshot](assets/img/highscorepage.png)
+![alt screenshot](assets/img/inputpage.png)
+![alt screenshot](assets/img/questions.png)
+![alt screenshot](assets/img/startpage.png)
 
 
 
